@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Documents/Code%20Library/Java/PRJ301_ThuLVM/TopGear/src/java/servlet/HomePage.java</file>
+            <file>file:/D:/Documents/Code%20Library/Java/PRJ301_ThuLVM/TopGear/web/META-INF/context.xml</file>
+            <file>file:/D:/Documents/Code%20Library/Java/PRJ301_ThuLVM/TopGear/src/java/dto/Constants.java</file>
+            <file>file:/D:/Documents/Code%20Library/Java/PRJ301_ThuLVM/TopGear/src/java/servlet/LogoutServlet.java</file>
+            <file>file:/D:/Documents/Code%20Library/Java/PRJ301_ThuLVM/TopGear/src/java/bean/AccountDAO.java</file>
+            <file>file:/D:/Documents/Code%20Library/Java/PRJ301_ThuLVM/TopGear/src/java/servlet/LoginGoogleController.java</file>
+            <file>file:/D:/Documents/Code%20Library/Java/PRJ301_ThuLVM/TopGear/src/java/servlet/LoginServlet.java</file>
+            <file>file:/D:/Documents/Code%20Library/Java/PRJ301_ThuLVM/TopGear/web/NavBar.jsp</file>
+            <file>file:/D:/Documents/Code%20Library/Java/PRJ301_ThuLVM/TopGear/src/java/dto/UserGoogleDTO.java</file>
+            <file>file:/D:/Documents/Code%20Library/Java/PRJ301_ThuLVM/TopGear/web/home.jsp</file>
+            <file>file:/D:/Documents/Code%20Library/Java/PRJ301_ThuLVM/TopGear/src/java/servlet/SignupServlet.java</file>
+            <file>file:/D:/Documents/Code%20Library/Java/PRJ301_ThuLVM/TopGear/web/Login.jsp</file>
+        </group>
+    </open-files>
+</project-private>

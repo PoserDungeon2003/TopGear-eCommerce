@@ -1,0 +1,197 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 15, 2023, 2:00:43 PM
+    Author     : Admin
+*/
+@import url(https://fonts.googleapis.com/css?family=Poppins);
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@600&display=swap');
+
+body.form{
+    font-size: 20px;
+    font-family: 'Poppins',sans-serif;
+    background-color: aliceblue; 
+    background-image: url("../images/background.jpg") 
+}
+
+body.table{
+    font-size: 20px;
+    font-family: 'Poppins',sans-serif;
+    background-color: black; 
+}
+h1{
+    text-align: center;
+    color: buttontext;
+}
+/*nav{
+    text-align: center;
+        background-color: darkblue;
+}*/
+/*nav::after{
+    content: '';
+    clear: both;
+    display: table;
+}*/
+/*nav ul li {
+    padding: 8px;
+    margin: 15px;
+}
+nav ul li a{
+    color: white;
+    text-decoration: none;
+    line-height: 70px;
+    font-size: 18px;
+    padding: 8px 15px;
+
+}
+nav ul li a:hover{
+    box-shadow: red;
+    border: red;
+}
+nav ul li{
+    float: top;
+    display: inline-block;
+    background-color: black;
+    margin: 0 5px;
+}
+nav ul{
+    list-style: none;
+    margin-right: 40px;
+    position: relative;
+}
+
+nav ul li a:hover {
+    color: cyan;
+    border-radius: 5px;
+    box-shadow: 0 0 5px #33ffff,
+        0 0 5px #66ffff;
+}*/
+
+form.home{
+    text-align: center;
+}
+form.home input.home{
+    background: blue;
+    color: white;
+    border-style: outset;
+    border-color: blue;
+    height: 50px;
+    width: 100px;
+}
+form.home input.home:hover{
+    background: darkblue;
+    color: white;
+    border-style: outset;
+    border-color: darkblue;
+}
+
+form.home_login_product input.home_login_product{
+    background: blue;
+    color: white;
+    border-style: outset;
+    border-color: blue;
+    height: 50px;
+    width: 100px;
+}
+form.home_login_product input.home_login_product:hover{
+    background: darkblue;
+    color: white;
+    border-style: outset;
+    border-color: darkblue;
+}
+div.choose{
+    text-align: center;
+}
+div.choose button.choose:hover{
+    background: darkorchid;
+    color: whitesmoke;
+    border-style: outset;
+    border-color: darkorchid;
+}
+
+div.choose button.choose{
+    background: purple;
+    color: white;
+    border-style: outset;
+    border-color: purple;
+    height: 50px;
+    width: 100px;
+}
+
+div.login button.login{
+    background: purple;
+    color: white;
+    border-style: outset;
+    border-color: purple;
+    height: 50px;
+    width: 100px;
+}
+
+div.login button.login:hover{
+    background: darkorchid;
+    color: whitesmoke;
+    border-style: outset;
+    border-color: darkorchid;
+}
+
+div.login{
+    text-align: center;
+}
+
+form .login_form{
+    text-align: center;
+}
+
+.error-message{
+    font-size: 11px;
+    font-weight: bold;
+    color: red;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    margin-top: 2px;
+}
+
+.error-input{
+    border: 1px solid red;
+}
+
+.error{
+    color: red;
+    font-family: 'Poppins',sans-serif;
+    font-style: italic;
+}
+
+.container{
+/*    align-content: center;*/
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+button .btn {
+   width: 100%;
+   margin: 10px;
+}
+
+.form-check-input{
+    border-color: blue;
+}
+
+td.details-open {
+  cursor: pointer;
+  
+}
+
+td.details-close {
+  color: #CCC;
+    visibility: hidden;
+
+}
+
+span.details-close{
+    visibility: hidden;
+}
